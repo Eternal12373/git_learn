@@ -4,3 +4,5 @@ user1
 
 user1 gogo
 user2 gogo
+
+user2 run
