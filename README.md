@@ -10,3 +10,5 @@ user2 run
 
 gogogo
 just go
+
+main
