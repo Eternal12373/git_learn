@@ -9,3 +9,4 @@ user1 run again
 user2 run
 
 gogogo
+just go
